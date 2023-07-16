@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Myvi",
+    "price": 50000,
+    "year": 2023,
+    "contact": { "dealer": "Thor", "number": "01110589655" }
+  },
+  {
+    "id": 2,
+    "name": "Axia",
+    "price": 40000,
+    "year": 2023,
+    "contact": { "dealer": "Tony", "number": "011105878452" }
+  },
+  {
+    "id": 3,
+    "name": "Proton wira",
+    "price": 15000,
+    "year": 2004,
+    "contact": { "dealer": "Hulk", "number": "01785422158" }
+  },
+  {
+    "id": 4,
+    "name": "Proton Saga",
+    "price": 40000,
+    "year": 2023,
+    "contact": { "dealer": "Thor", "number": "01110589655" }
+  }
+]
