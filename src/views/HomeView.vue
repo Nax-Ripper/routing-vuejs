@@ -22,18 +22,20 @@ import { RouterLink } from 'vue-router';
 <style scoped>
 .cars{
     display: flex;
+    
 }
 
 .cars a{
     text-decoration: none;
     color: black;
-    width: 100%;
+    width: 1000px;
     box-shadow: 2px 2px 20px rgba(0,0,0,0.388);
     margin: 15px;
     text-align: center;
     border-radius: 16px;
     padding: 30px 0;
     cursor: pointer;
+    
 }
 
 a:hover{

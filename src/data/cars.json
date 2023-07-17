@@ -26,5 +26,11 @@
     "price": 40000,
     "year": 2023,
     "contact": { "dealer": "Thor", "number": "01110589655" }
+  },{
+    "id": 5,
+    "name": "Ativa",
+    "price": 75000,
+    "year": 2023,
+    "contact": { "dealer": "Bruce", "number": "01258944563" }
   }
 ]
